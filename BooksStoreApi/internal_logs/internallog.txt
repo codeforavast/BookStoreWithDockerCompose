@@ -1,0 +1,877 @@
+2020-07-01 14:53:42.8147 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 14:53:42.8676 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 14:53:43.0161 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 14:53:43.0161 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 14:53:43.0270 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 14:53:43.0270 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 14:53:43.0660 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 14:53:43.0660 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 14:53:43.0749 Info Message Template Auto Format enabled
+2020-07-01 14:53:43.0749 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 14:53:43.4267 Info Adding target FileTarget(Name=logfile)
+2020-07-01 14:53:43.4652 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-01 14:53:43.5199 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 14:53:43.5443 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2020-07-01 14:53:43.5752 Info Found 39 configuration items
+2020-07-01 15:01:04.8423 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 15:01:04.8609 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 15:01:04.8822 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 15:01:04.8860 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 15:01:04.8860 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 15:01:04.8860 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 15:01:04.9060 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 15:01:04.9060 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 15:01:04.9199 Info Message Template Auto Format enabled
+2020-07-01 15:01:04.9199 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 15:01:05.0045 Info Adding target FileTarget(Name=logfile)
+2020-07-01 15:01:05.0210 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 15:01:05.0496 Info Found 16 configuration items
+2020-07-01 23:02:18.2217 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:02:18.3419 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:02:18.4699 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 23:02:18.4963 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 23:02:18.4963 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:02:18.4963 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:02:18.5423 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 23:02:18.5482 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 23:02:18.5482 Info Message Template Auto Format enabled
+2020-07-01 23:02:18.5655 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 23:02:18.7607 Info Adding target FileTarget(Name=logfile)
+2020-07-01 23:02:18.8201 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 23:02:18.8517 Info Found 16 configuration items
+2020-07-01 23:13:09.8675 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:13:09.9048 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:13:09.9450 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 23:13:09.9566 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 23:13:09.9566 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:13:09.9566 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:13:09.9892 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 23:13:09.9892 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 23:13:10.0147 Info Message Template Auto Format enabled
+2020-07-01 23:13:10.0325 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 23:13:10.1088 Info Adding target FileTarget(Name=logfile)
+2020-07-01 23:13:10.1332 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 23:13:10.1626 Info Found 16 configuration items
+2020-07-01 23:26:41.2838 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:26:41.4646 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:26:41.7218 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 23:26:41.7292 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 23:26:41.7292 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:26:41.7419 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:26:41.8180 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 23:26:41.8275 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 23:26:41.8363 Info Message Template Auto Format enabled
+2020-07-01 23:26:41.8363 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 23:26:41.9690 Info Adding target FileTarget(Name=logfile)
+2020-07-01 23:26:41.9835 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 23:26:42.0209 Info Found 16 configuration items
+2020-07-01 23:39:04.1612 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:39:04.3457 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:39:04.4245 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 23:39:04.4348 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 23:39:04.4348 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:39:04.4461 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:39:04.5088 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 23:39:04.5088 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 23:39:04.5305 Info Message Template Auto Format enabled
+2020-07-01 23:39:04.5421 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 23:39:05.0339 Info Adding target FileTarget(Name=logfile)
+2020-07-01 23:39:05.0661 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 23:39:05.1363 Info Found 16 configuration items
+2020-07-01 23:57:29.2627 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:57:29.2862 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:57:29.3251 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 23:57:29.3251 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 23:57:29.3446 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:57:29.3446 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:57:29.3926 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 23:57:29.3926 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 23:57:29.4135 Info Message Template Auto Format enabled
+2020-07-01 23:57:29.4369 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 23:57:29.5424 Info Adding target FileTarget(Name=logfile)
+2020-07-01 23:57:29.5573 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 23:57:29.5892 Info Found 16 configuration items
+2020-07-01 23:58:51.0555 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:58:51.0782 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 23:58:51.1249 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 23:58:51.1315 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 23:58:51.1315 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:58:51.1315 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 23:58:51.1633 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 23:58:51.1633 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 23:58:51.1774 Info Message Template Auto Format enabled
+2020-07-01 23:58:51.1774 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 23:58:51.2769 Info Adding target FileTarget(Name=logfile)
+2020-07-01 23:58:51.2998 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 23:58:51.3427 Info Found 16 configuration items
+2020-07-02 01:09:27.0914 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 01:09:27.1643 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 01:09:27.3152 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-02 01:09:27.3233 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-02 01:09:27.3233 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 01:09:27.3405 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 01:09:27.3930 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-02 01:09:27.4045 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-02 01:09:27.4045 Info Message Template Auto Format enabled
+2020-07-02 01:09:27.4257 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-02 01:09:27.6323 Info Adding target FileTarget(Name=logfile)
+2020-07-02 01:09:27.6909 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-02 01:09:27.7648 Info Found 16 configuration items
+2020-07-02 01:24:05.6026 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 01:24:05.6732 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 01:24:05.7349 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-02 01:24:05.7465 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-02 01:24:05.7465 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 01:24:05.7465 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 01:24:05.8340 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-02 01:24:05.8457 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-02 01:24:05.8631 Info Message Template Auto Format enabled
+2020-07-02 01:24:05.8848 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-02 01:24:06.0064 Info Adding target FileTarget(Name=logfile)
+2020-07-02 01:24:06.0217 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-02 01:24:06.0512 Info Found 16 configuration items
+2020-07-02 01:26:32.6747 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 01:26:32.7363 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 01:26:32.7969 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-02 01:26:32.8084 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-02 01:26:32.8084 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 01:26:32.8084 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 01:26:32.8365 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-02 01:26:32.8430 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-02 01:26:32.8430 Info Message Template Auto Format enabled
+2020-07-02 01:26:32.8592 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-02 01:26:32.9267 Info Adding target FileTarget(Name=logfile)
+2020-07-02 01:26:32.9429 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-02 01:26:32.9842 Info Found 16 configuration items
+2020-07-02 10:32:36.1994 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:32:37.0299 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:32:37.1668 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-02 10:32:37.1668 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-02 10:32:37.1836 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:32:37.2002 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:32:37.2396 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-02 10:32:37.2457 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-02 10:32:37.2457 Info Message Template Auto Format enabled
+2020-07-02 10:32:37.2696 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-02 10:32:37.4910 Info Adding target FileTarget(Name=logfile)
+2020-07-02 10:32:37.5433 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-02 10:32:37.7833 Info Found 16 configuration items
+2020-07-02 10:32:43.6272 Info AppDomain Shutting down. Logger closing...
+2020-07-02 10:32:44.4420 Info Logger has been shut down.
+2020-07-02 10:33:09.1889 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:33:09.2765 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:33:09.4079 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-02 10:33:09.4290 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-02 10:33:09.4406 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:33:09.4406 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:33:09.4898 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-02 10:33:09.6296 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-02 10:33:09.6948 Info Message Template Auto Format enabled
+2020-07-02 10:33:09.7152 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-02 10:33:09.8270 Info Adding target FileTarget(Name=logfile)
+2020-07-02 10:33:09.8849 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-02 10:33:10.0400 Info Found 16 configuration items
+2020-07-02 10:43:45.5837 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:43:45.6390 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:43:45.6732 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-02 10:43:45.6732 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-02 10:43:45.6890 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:43:45.6890 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:43:45.7202 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-02 10:43:45.7202 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-02 10:43:45.7333 Info Message Template Auto Format enabled
+2020-07-02 10:43:45.7333 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-02 10:43:45.8076 Info Adding target FileTarget(Name=logfile)
+2020-07-02 10:43:45.8259 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-02 10:43:45.8649 Info Found 16 configuration items
+2020-07-02 10:44:47.2362 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:44:47.2642 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:44:47.2885 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-02 10:44:47.2999 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-02 10:44:47.3338 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:44:47.3424 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:44:47.3678 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-02 10:44:47.3746 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-02 10:44:47.3746 Info Message Template Auto Format enabled
+2020-07-02 10:44:47.3957 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-02 10:44:47.4794 Info Adding target FileTarget(Name=logfile)
+2020-07-02 10:44:47.4962 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-02 10:44:47.5360 Info Found 16 configuration items
+2020-07-02 10:45:34.1485 Info AppDomain Shutting down. Logger closing...
+2020-07-02 10:45:34.1732 Info Logger has been shut down.
+2020-07-02 10:52:22.5498 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:52:22.7122 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-02 10:52:22.9377 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-02 10:52:22.9453 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-02 10:52:22.9453 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:52:22.9614 Info Loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-02 10:52:23.0155 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-02 10:52:23.0223 Info Auto loading assembly file: C:\app\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-02 10:52:23.0223 Info Message Template Auto Format enabled
+2020-07-02 10:52:23.0475 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-02 10:52:23.2279 Info Adding target FileTarget(Name=logfile)
+2020-07-02 10:52:23.2717 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-02 10:52:23.3126 Info Found 16 configuration items
+2020-07-04 14:21:44.4758 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-04 14:21:44.5244 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-04 14:21:44.6268 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-04 14:21:44.6312 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-04 14:21:44.6341 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-04 14:21:44.6398 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-04 14:21:44.6754 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-04 14:21:44.6811 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-04 14:21:44.6874 Info Message Template Auto Format enabled
+2020-07-04 14:21:44.6968 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-04 14:21:44.7599 Info Adding target FileTarget(Name=logfile)
+2020-07-04 14:21:44.7780 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-04 14:21:44.8123 Info Found 16 configuration items
+2020-07-04 23:46:38.7916 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-04 23:46:38.8835 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-04 23:46:39.5984 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-04 23:46:39.6115 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-04 23:46:39.6287 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-04 23:46:39.6358 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-04 23:46:39.7453 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-04 23:46:39.7497 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-04 23:46:39.7579 Info Message Template Auto Format enabled
+2020-07-04 23:46:39.7669 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-04 23:46:39.9864 Info Adding target FileTarget(Name=logfile)
+2020-07-04 23:46:40.0078 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-04 23:46:40.1113 Info Found 16 configuration items
+2020-07-04 23:53:33.5817 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-04 23:53:33.6923 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-04 23:53:34.1227 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-04 23:53:34.1265 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-04 23:53:34.1294 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-04 23:53:34.1354 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-04 23:53:34.1948 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-04 23:53:34.2010 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-04 23:53:34.2083 Info Message Template Auto Format enabled
+2020-07-04 23:53:34.2181 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-04 23:53:34.3447 Info Adding target FileTarget(Name=logfile)
+2020-07-04 23:53:34.3602 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-04 23:53:34.4090 Info Found 16 configuration items
+2020-07-05 00:01:33.2810 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:01:33.3432 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:01:33.5706 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 00:01:33.5799 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 00:01:33.5826 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:01:33.5879 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:01:33.6118 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 00:01:33.6179 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 00:01:33.6314 Info Message Template Auto Format enabled
+2020-07-05 00:01:33.6436 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 00:01:33.8840 Info Adding target FileTarget(Name=logfile)
+2020-07-05 00:01:33.9190 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 00:01:33.9847 Info Found 16 configuration items
+2020-07-05 00:04:14.4725 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:04:14.4918 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:04:14.5790 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 00:04:14.5831 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 00:04:14.5882 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:04:14.5942 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:04:14.6171 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 00:04:14.6216 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 00:04:14.6295 Info Message Template Auto Format enabled
+2020-07-05 00:04:14.6390 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 00:04:14.7063 Info Adding target FileTarget(Name=logfile)
+2020-07-05 00:04:14.7226 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 00:04:14.7550 Info Found 16 configuration items
+2020-07-05 00:16:46.5024 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:16:46.5500 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:16:46.9504 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 00:16:46.9587 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 00:16:46.9654 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:16:46.9722 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:16:47.0878 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 00:16:47.0940 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 00:16:47.0992 Info Message Template Auto Format enabled
+2020-07-05 00:16:47.1131 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 00:16:47.2387 Info Adding target FileTarget(Name=logfile)
+2020-07-05 00:16:47.2516 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 00:16:47.3208 Info Found 16 configuration items
+2020-07-05 00:24:54.0954 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:24:54.3930 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:24:54.8317 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 00:24:54.8362 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 00:24:54.8393 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:24:54.8461 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:24:54.8727 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 00:24:54.8780 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 00:24:54.8891 Info Message Template Auto Format enabled
+2020-07-05 00:24:54.8983 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 00:24:55.1126 Info Adding target FileTarget(Name=logfile)
+2020-07-05 00:24:55.1324 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 00:24:55.2172 Info Found 16 configuration items
+2020-07-05 00:31:36.9551 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:31:37.0159 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 00:31:37.1666 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 00:31:37.1726 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 00:31:37.1780 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:31:37.1836 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 00:31:37.2074 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 00:31:37.2137 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 00:31:37.2200 Info Message Template Auto Format enabled
+2020-07-05 00:31:37.2294 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 00:31:37.3314 Info Adding target FileTarget(Name=logfile)
+2020-07-05 00:31:37.3487 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 00:31:37.3988 Info Found 16 configuration items
+2020-07-05 01:07:02.4010 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 01:07:02.4745 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 01:07:02.7437 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 01:07:02.7476 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 01:07:02.7510 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 01:07:02.7561 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 01:07:02.7950 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 01:07:02.8005 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 01:07:02.8087 Info Message Template Auto Format enabled
+2020-07-05 01:07:02.8185 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 01:07:02.9567 Info Adding target FileTarget(Name=logfile)
+2020-07-05 01:07:02.9760 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 01:07:03.0235 Info Found 16 configuration items
+2020-07-05 01:19:17.1700 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 01:19:17.1974 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 01:19:17.3972 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 01:19:17.4089 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 01:19:17.4472 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 01:19:17.4524 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 01:19:17.4767 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 01:19:17.4828 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 01:19:17.4908 Info Message Template Auto Format enabled
+2020-07-05 01:19:17.4988 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 01:19:17.6135 Info Adding target FileTarget(Name=logfile)
+2020-07-05 01:19:17.6318 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 01:19:17.7342 Info Found 16 configuration items
+2020-07-05 12:27:14.8085 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 12:27:14.9803 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 12:27:16.5752 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 12:27:16.6184 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 12:27:17.0622 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 12:27:17.0882 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 12:27:17.2543 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 12:27:17.3089 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 12:27:17.3411 Info Message Template Auto Format enabled
+2020-07-05 12:27:17.3863 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 12:27:18.0233 Info Adding target FileTarget(Name=logfile)
+2020-07-05 12:27:18.0924 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 12:27:18.4517 Info Found 16 configuration items
+2020-07-05 12:31:11.7230 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 12:31:11.8265 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 12:31:12.2973 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 12:31:12.3343 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 12:31:12.3391 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 12:31:12.3635 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 12:31:12.4388 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 12:31:12.4632 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 12:31:12.4824 Info Message Template Auto Format enabled
+2020-07-05 12:31:12.5174 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 12:31:12.7263 Info Adding target FileTarget(Name=logfile)
+2020-07-05 12:31:12.7694 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 12:31:12.9238 Info Found 16 configuration items
+2020-07-05 12:34:31.8711 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 12:34:31.9404 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 12:34:32.2841 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 12:34:32.2955 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 12:34:32.3063 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 12:34:32.3227 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 12:34:32.4150 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 12:34:32.4324 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 12:34:32.4611 Info Message Template Auto Format enabled
+2020-07-05 12:34:32.4896 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 12:34:32.9549 Info Adding target FileTarget(Name=logfile)
+2020-07-05 12:34:33.0344 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 12:34:33.1784 Info Found 16 configuration items
+2020-07-05 13:58:06.2935 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 13:58:06.3735 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 13:58:06.9612 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 13:58:06.9695 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 13:58:06.9736 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 13:58:06.9796 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 13:58:07.2039 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 13:58:07.2166 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 13:58:07.2267 Info Message Template Auto Format enabled
+2020-07-05 13:58:07.2389 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 13:58:07.3432 Info Adding target FileTarget(Name=logfile)
+2020-07-05 13:58:07.3565 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 13:58:07.4032 Info Found 16 configuration items
+2020-07-05 14:03:10.1237 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 14:03:10.1405 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 14:03:10.2379 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 14:03:10.2434 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 14:03:10.2477 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 14:03:10.2539 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 14:03:10.3216 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 14:03:10.3266 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 14:03:10.3351 Info Message Template Auto Format enabled
+2020-07-05 14:03:10.3453 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 14:03:10.4250 Info Adding target FileTarget(Name=logfile)
+2020-07-05 14:03:10.4392 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 14:03:10.4707 Info Found 16 configuration items
+2020-07-05 14:15:43.0271 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 14:15:43.0426 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 14:15:43.1286 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 14:15:43.1325 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 14:15:43.1367 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 14:15:43.1416 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 14:15:43.1616 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 14:15:43.1662 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 14:15:43.1740 Info Message Template Auto Format enabled
+2020-07-05 14:15:43.1817 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 14:15:43.2487 Info Adding target FileTarget(Name=logfile)
+2020-07-05 14:15:43.2656 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 14:15:43.3102 Info Found 16 configuration items
+2020-07-05 15:08:12.6905 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 15:08:12.7253 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 15:08:13.1685 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 15:08:13.1748 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 15:08:13.2059 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 15:08:13.2124 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 15:08:13.2423 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 15:08:13.2483 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 15:08:13.2682 Info Message Template Auto Format enabled
+2020-07-05 15:08:13.2799 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 15:08:13.3814 Info Adding target FileTarget(Name=logfile)
+2020-07-05 15:08:13.3955 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 15:08:13.4604 Info Found 16 configuration items
+2020-07-05 15:16:28.9453 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 15:16:29.0094 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 15:16:29.3429 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 15:16:29.3484 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 15:16:29.3522 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 15:16:29.3590 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 15:16:29.3879 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 15:16:29.3930 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 15:16:29.4006 Info Message Template Auto Format enabled
+2020-07-05 15:16:29.4108 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 15:16:29.5579 Info Adding target FileTarget(Name=logfile)
+2020-07-05 15:16:29.5762 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 15:16:29.6106 Info Found 16 configuration items
+2020-07-05 22:46:39.3069 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 22:46:39.3591 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 22:46:39.8063 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 22:46:39.8311 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 22:46:39.8692 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 22:46:39.8994 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 22:46:39.9590 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 22:46:39.9724 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 22:46:39.9872 Info Message Template Auto Format enabled
+2020-07-05 22:46:40.0035 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 22:46:40.1235 Info Adding target FileTarget(Name=logfile)
+2020-07-05 22:46:40.1434 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 22:46:40.2204 Info Found 16 configuration items
+2020-07-05 22:49:40.3140 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 22:49:40.3320 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 22:49:40.4221 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 22:49:40.4614 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 22:49:40.4652 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 22:49:40.4703 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 22:49:40.4916 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 22:49:40.4969 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 22:49:40.5053 Info Message Template Auto Format enabled
+2020-07-05 22:49:40.5129 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 22:49:40.5778 Info Adding target FileTarget(Name=logfile)
+2020-07-05 22:49:40.5931 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 22:49:40.6275 Info Found 16 configuration items
+2020-07-05 23:08:02.0459 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 23:08:02.0770 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-05 23:08:02.1756 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-05 23:08:02.1804 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-05 23:08:02.1844 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 23:08:02.1908 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-05 23:08:02.2193 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-05 23:08:02.2246 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-05 23:08:02.2368 Info Message Template Auto Format enabled
+2020-07-05 23:08:02.2488 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-05 23:08:02.3172 Info Adding target FileTarget(Name=logfile)
+2020-07-05 23:08:02.3302 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-05 23:08:02.3620 Info Found 16 configuration items
+2020-07-06 08:45:36.3713 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 08:45:36.4803 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 08:45:37.0337 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 08:45:37.0493 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 08:45:37.0597 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 08:45:37.0813 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 08:45:37.1786 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 08:45:37.1977 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 08:45:37.2192 Info Message Template Auto Format enabled
+2020-07-06 08:45:37.2460 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 08:45:37.4626 Info Adding target FileTarget(Name=logfile)
+2020-07-06 08:45:37.5093 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 08:45:37.6155 Info Found 16 configuration items
+2020-07-06 08:50:36.9684 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 08:50:37.0991 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 08:50:37.5420 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 08:50:37.5643 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 08:50:37.5728 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 08:50:37.6153 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 08:50:37.7400 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 08:50:37.8899 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 08:50:37.9825 Info Message Template Auto Format enabled
+2020-07-06 08:50:38.0950 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 08:50:38.4279 Info Adding target FileTarget(Name=logfile)
+2020-07-06 08:50:38.5625 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 08:50:38.7277 Info Found 16 configuration items
+2020-07-06 08:52:11.2543 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 08:52:11.3445 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 08:52:11.5640 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 08:52:11.5819 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 08:52:11.5898 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 08:52:11.6053 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 08:52:11.7181 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 08:52:11.7419 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 08:52:11.7767 Info Message Template Auto Format enabled
+2020-07-06 08:52:11.8366 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 08:52:12.1694 Info Adding target FileTarget(Name=logfile)
+2020-07-06 08:52:12.2158 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 08:52:12.3067 Info Found 16 configuration items
+2020-07-06 09:10:57.3688 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:10:57.6557 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:10:58.5979 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 09:10:58.8506 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 09:10:59.0548 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:10:59.1030 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:10:59.2982 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 09:10:59.3404 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 09:10:59.4032 Info Message Template Auto Format enabled
+2020-07-06 09:10:59.4671 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 09:11:00.2755 Info Adding target FileTarget(Name=logfile)
+2020-07-06 09:11:00.4744 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 09:11:01.2864 Info Found 16 configuration items
+2020-07-06 09:23:26.3872 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:23:26.6155 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:23:27.2464 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 09:23:27.2623 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 09:23:27.2720 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:23:27.2883 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:23:27.3660 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 09:23:27.3929 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 09:23:27.4138 Info Message Template Auto Format enabled
+2020-07-06 09:23:27.4526 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 09:23:28.0410 Info Adding target FileTarget(Name=logfile)
+2020-07-06 09:23:28.5456 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 09:23:28.8177 Info Found 16 configuration items
+2020-07-06 09:26:08.6816 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:26:08.8898 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:26:09.6737 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 09:26:09.7608 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 09:26:09.8735 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:26:09.9389 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:26:10.1987 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 09:26:10.2814 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 09:26:10.3901 Info Message Template Auto Format enabled
+2020-07-06 09:26:10.4876 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 09:26:11.4951 Info Adding target FileTarget(Name=logfile)
+2020-07-06 09:26:11.6002 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 09:26:11.9873 Info Found 16 configuration items
+2020-07-06 09:45:09.2556 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:45:09.3804 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:45:09.9224 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 09:45:09.9420 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 09:45:09.9715 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:45:10.0446 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:45:10.1946 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 09:45:10.2280 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 09:45:10.2706 Info Message Template Auto Format enabled
+2020-07-06 09:45:10.3543 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 09:45:10.6379 Info Adding target FileTarget(Name=logfile)
+2020-07-06 09:45:10.7193 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 09:45:10.9091 Info Found 16 configuration items
+2020-07-06 09:56:47.0134 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:56:47.1234 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 09:56:47.9945 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 09:56:48.0238 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 09:56:48.0296 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:56:48.0445 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 09:56:48.1139 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 09:56:48.1396 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 09:56:48.1658 Info Message Template Auto Format enabled
+2020-07-06 09:56:48.1969 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 09:56:48.4948 Info Adding target FileTarget(Name=logfile)
+2020-07-06 09:56:48.6153 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 09:56:48.9441 Info Found 16 configuration items
+2020-07-06 10:02:41.8697 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 10:02:41.9987 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 10:02:42.6433 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 10:02:42.6823 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 10:02:42.7558 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 10:02:42.7985 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 10:02:42.9605 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 10:02:43.0035 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 10:02:43.0445 Info Message Template Auto Format enabled
+2020-07-06 10:02:43.0774 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 10:02:43.3693 Info Adding target FileTarget(Name=logfile)
+2020-07-06 10:02:43.4180 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 10:02:43.5960 Info Found 16 configuration items
+2020-07-06 10:08:52.2818 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 10:08:52.3527 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 10:08:53.0917 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 10:08:53.1724 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 10:08:53.2427 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 10:08:53.2856 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 10:08:53.4944 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 10:08:53.5490 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 10:08:53.5939 Info Message Template Auto Format enabled
+2020-07-06 10:08:53.7394 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 10:08:54.0797 Info Adding target FileTarget(Name=logfile)
+2020-07-06 10:08:54.1161 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 10:08:54.2093 Info Found 16 configuration items
+2020-07-06 10:10:43.3827 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 10:10:43.5230 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 10:10:44.3189 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 10:10:44.3405 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 10:10:44.3581 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 10:10:44.3742 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 10:10:44.4784 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 10:10:44.5085 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 10:10:44.5362 Info Message Template Auto Format enabled
+2020-07-06 10:10:44.5799 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 10:10:44.8652 Info Adding target FileTarget(Name=logfile)
+2020-07-06 10:10:44.9844 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 10:10:45.3648 Info Found 16 configuration items
+2020-07-06 10:14:41.6222 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 10:14:41.6786 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 10:14:41.9726 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 10:14:41.9914 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 10:14:42.0057 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 10:14:42.0404 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 10:14:42.2569 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 10:14:42.3610 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 10:14:42.3996 Info Message Template Auto Format enabled
+2020-07-06 10:14:42.4269 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 10:14:42.6178 Info Adding target FileTarget(Name=logfile)
+2020-07-06 10:14:42.6602 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 10:14:42.7671 Info Found 16 configuration items
+2020-07-06 11:07:25.4199 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 11:07:25.4632 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 11:07:25.5923 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 11:07:25.5989 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 11:07:25.6032 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 11:07:25.6142 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 11:07:25.7065 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 11:07:25.7134 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 11:07:25.7322 Info Message Template Auto Format enabled
+2020-07-06 11:07:25.7696 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 11:07:25.9544 Info Adding target FileTarget(Name=logfile)
+2020-07-06 11:07:25.9669 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 11:07:25.9962 Info Found 16 configuration items
+2020-07-06 11:23:42.8074 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 11:23:42.8327 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 11:23:42.9249 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 11:23:42.9297 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 11:23:42.9327 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 11:23:42.9413 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 11:23:42.9616 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 11:23:42.9670 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 11:23:42.9731 Info Message Template Auto Format enabled
+2020-07-06 11:23:42.9811 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 11:23:43.0456 Info Adding target FileTarget(Name=logfile)
+2020-07-06 11:23:43.0609 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 11:23:43.0979 Info Found 16 configuration items
+2020-07-06 11:25:38.1964 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 11:25:38.2011 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 11:25:38.2339 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 11:25:38.2389 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 11:25:38.2407 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 11:25:38.2466 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 11:25:38.2616 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 11:25:38.2708 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 11:25:38.2777 Info Message Template Auto Format enabled
+2020-07-06 11:25:38.2888 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 11:25:38.3433 Info Adding target FileTarget(Name=logfile)
+2020-07-06 11:25:38.3578 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 11:25:38.3909 Info Found 16 configuration items
+2020-07-06 11:37:35.3514 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 11:37:35.3729 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 11:37:35.5267 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 11:37:35.5329 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 11:37:35.5405 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 11:37:35.5513 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 11:37:35.5832 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 11:37:35.5901 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 11:37:35.5960 Info Message Template Auto Format enabled
+2020-07-06 11:37:35.6042 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 11:37:35.6751 Info Adding target FileTarget(Name=logfile)
+2020-07-06 11:37:35.6883 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 11:37:35.7219 Info Found 16 configuration items
+2020-07-06 14:06:29.0462 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 14:06:29.0658 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 14:06:29.2677 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 14:06:29.2751 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 14:06:29.2774 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 14:06:29.2837 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 14:06:29.3316 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 14:06:29.3481 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 14:06:29.3542 Info Message Template Auto Format enabled
+2020-07-06 14:06:29.3613 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 14:06:29.4243 Info Adding target FileTarget(Name=logfile)
+2020-07-06 14:06:29.4437 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 14:06:29.4738 Info Found 16 configuration items
+2020-07-06 16:07:33.3632 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 16:07:33.4066 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 16:07:33.5359 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 16:07:33.5402 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 16:07:33.5435 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 16:07:33.5505 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 16:07:33.5856 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 16:07:33.5927 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 16:07:33.6087 Info Message Template Auto Format enabled
+2020-07-06 16:07:33.6406 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 16:07:33.8067 Info Adding target FileTarget(Name=logfile)
+2020-07-06 16:07:33.8276 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 16:07:33.8687 Info Found 16 configuration items
+2020-07-06 16:58:34.8891 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 16:58:34.9090 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 16:58:35.1421 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 16:58:35.1614 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 16:58:35.1642 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 16:58:35.1692 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 16:58:35.2182 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 16:58:35.2233 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 16:58:35.2313 Info Message Template Auto Format enabled
+2020-07-06 16:58:35.2394 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 16:58:35.3021 Info Adding target FileTarget(Name=logfile)
+2020-07-06 16:58:35.3155 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 16:58:35.3472 Info Found 16 configuration items
+2020-07-06 17:06:29.1462 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:06:29.1650 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:06:29.2640 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 17:06:29.2681 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 17:06:29.2707 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:06:29.2762 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:06:29.2971 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 17:06:29.3048 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 17:06:29.3113 Info Message Template Auto Format enabled
+2020-07-06 17:06:29.3196 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 17:06:29.4042 Info Adding target FileTarget(Name=logfile)
+2020-07-06 17:06:29.4247 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 17:06:29.4653 Info Found 16 configuration items
+2020-07-06 17:08:07.8528 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:08:07.8719 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:08:07.9777 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 17:08:07.9817 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 17:08:07.9859 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:08:07.9903 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:08:08.0151 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 17:08:08.0196 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 17:08:08.0266 Info Message Template Auto Format enabled
+2020-07-06 17:08:08.0346 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 17:08:08.0992 Info Adding target FileTarget(Name=logfile)
+2020-07-06 17:08:08.1141 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 17:08:08.1813 Info Found 16 configuration items
+2020-07-06 17:12:02.3477 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:12:02.3702 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:12:02.4703 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 17:12:02.4743 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 17:12:02.4768 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:12:02.4815 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:12:02.5050 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 17:12:02.5112 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 17:12:02.5187 Info Message Template Auto Format enabled
+2020-07-06 17:12:02.5284 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 17:12:02.6057 Info Adding target FileTarget(Name=logfile)
+2020-07-06 17:12:02.6204 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 17:12:02.6521 Info Found 16 configuration items
+2020-07-06 17:13:09.2140 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:13:09.2352 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:13:09.3221 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 17:13:09.3258 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 17:13:09.3300 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:13:09.3354 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:13:09.3616 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 17:13:09.3675 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 17:13:09.3743 Info Message Template Auto Format enabled
+2020-07-06 17:13:09.3819 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 17:13:09.4463 Info Adding target FileTarget(Name=logfile)
+2020-07-06 17:13:09.4612 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 17:13:09.4911 Info Found 16 configuration items
+2020-07-06 17:17:10.1366 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:17:10.1707 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:17:10.3033 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 17:17:10.3075 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 17:17:10.3104 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:17:10.3162 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:17:10.3586 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 17:17:10.3656 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 17:17:10.3720 Info Message Template Auto Format enabled
+2020-07-06 17:17:10.3799 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 17:17:10.4614 Info Adding target FileTarget(Name=logfile)
+2020-07-06 17:17:10.4818 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 17:17:10.5237 Info Found 16 configuration items
+2020-07-06 17:18:09.5729 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:18:09.5953 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:18:09.7156 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 17:18:09.7232 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 17:18:09.7254 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:18:09.7318 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:18:09.7540 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 17:18:09.7598 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 17:18:09.7663 Info Message Template Auto Format enabled
+2020-07-06 17:18:09.7753 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 17:18:09.8405 Info Adding target FileTarget(Name=logfile)
+2020-07-06 17:18:09.8528 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 17:18:09.8840 Info Found 16 configuration items
+2020-07-06 17:18:40.6005 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:18:40.6215 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:18:40.7174 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 17:18:40.7215 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 17:18:40.7257 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:18:40.7318 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:18:40.7572 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 17:18:40.7633 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 17:18:40.7698 Info Message Template Auto Format enabled
+2020-07-06 17:18:40.7813 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 17:18:40.8514 Info Adding target FileTarget(Name=logfile)
+2020-07-06 17:18:40.8649 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 17:18:40.8977 Info Found 16 configuration items
+2020-07-06 17:21:51.4319 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:21:51.4581 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 17:21:51.5744 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 17:21:51.5800 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 17:21:51.5850 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:21:51.5939 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 17:21:51.6182 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 17:21:51.6265 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 17:21:51.6352 Info Message Template Auto Format enabled
+2020-07-06 17:21:51.6450 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 17:21:51.7289 Info Adding target FileTarget(Name=logfile)
+2020-07-06 17:21:51.7456 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 17:21:51.7856 Info Found 16 configuration items
+2020-07-06 18:28:32.6582 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:28:32.7541 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:28:33.2434 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 18:28:33.2686 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 18:28:33.2728 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:28:33.2940 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:28:33.3498 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 18:28:33.3707 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 18:28:33.3918 Info Message Template Auto Format enabled
+2020-07-06 18:28:33.4264 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 18:28:33.7133 Info Adding target FileTarget(Name=logfile)
+2020-07-06 18:28:33.7761 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 18:28:33.8846 Info Found 16 configuration items
+2020-07-06 18:35:24.1315 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:35:24.2316 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:35:24.8954 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 18:35:24.9320 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 18:35:25.0007 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:35:25.0473 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:35:25.2977 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 18:35:25.3398 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 18:35:25.3810 Info Message Template Auto Format enabled
+2020-07-06 18:35:25.4156 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 18:35:25.7139 Info Adding target FileTarget(Name=logfile)
+2020-07-06 18:35:25.7931 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 18:35:25.9138 Info Found 16 configuration items
+2020-07-06 19:03:22.5609 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 19:03:22.6924 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 19:03:23.4212 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 19:03:23.4405 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 19:03:23.4751 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 19:03:23.5062 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 19:03:23.5937 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 19:03:23.6449 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 19:03:23.6793 Info Message Template Auto Format enabled
+2020-07-06 19:03:23.7328 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 19:03:24.5137 Info Adding target FileTarget(Name=logfile)
+2020-07-06 19:03:24.5646 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-06 19:03:24.6972 Info Found 16 configuration items

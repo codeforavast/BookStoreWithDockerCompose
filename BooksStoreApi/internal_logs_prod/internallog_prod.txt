@@ -1,0 +1,200 @@
+2020-07-01 15:02:29.5353 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 15:02:29.5701 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 15:02:29.6217 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 15:02:29.6217 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 15:02:29.6217 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 15:02:29.6370 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 15:02:29.6526 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 15:02:29.6526 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 15:02:29.6526 Info Message Template Auto Format enabled
+2020-07-01 15:02:29.6696 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 15:02:29.7428 Info Adding target FileTarget(Name=logfile)
+2020-07-01 15:02:29.7571 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 15:02:29.8188 Info Found 16 configuration items
+2020-07-01 18:06:24.0643 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 18:06:24.0643 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 18:06:24.0791 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 18:06:24.0791 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 18:06:24.0791 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 18:06:24.0791 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 18:06:24.0903 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 18:06:24.0903 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 18:06:24.0903 Info Message Template Auto Format enabled
+2020-07-01 18:06:24.0903 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 18:06:24.1404 Info Adding target FileTarget(Name=logfile)
+2020-07-01 18:06:24.1520 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 18:06:24.1752 Info Found 16 configuration items
+2020-07-01 22:24:31.7757 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 22:24:31.7992 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 22:24:31.8220 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 22:24:31.8271 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 22:24:31.8271 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 22:24:31.8271 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 22:24:31.8422 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 22:24:31.8422 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 22:24:31.8422 Info Message Template Auto Format enabled
+2020-07-01 22:24:31.8582 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 22:24:31.9174 Info Adding target FileTarget(Name=logfile)
+2020-07-01 22:24:31.9174 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 22:24:31.9613 Info Found 16 configuration items
+2020-07-01 22:26:32.3942 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 22:26:32.4046 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-07-01 22:26:32.4046 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-01 22:26:32.4188 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-07-01 22:26:32.4188 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 22:26:32.4188 Info Loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-07-01 22:26:32.4188 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-01 22:26:32.4188 Info Auto loading assembly file: E:\Kautilya\Practice\BooksStore\BooksStore\BooksStoreApi\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-07-01 22:26:32.4188 Info Message Template Auto Format enabled
+2020-07-01 22:26:32.4372 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-01 22:26:32.4769 Info Adding target FileTarget(Name=logfile)
+2020-07-01 22:26:32.4879 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2020-07-01 22:26:32.5116 Info Found 16 configuration items
+2020-07-06 18:11:05.3744 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:11:05.4139 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:11:05.5034 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 18:11:05.5073 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 18:11:05.5101 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:11:05.5144 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:11:05.5431 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 18:11:05.5489 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 18:11:05.5547 Info Message Template Auto Format enabled
+2020-07-06 18:11:05.5643 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 18:11:05.6213 Info Adding target DatabaseTarget(Name=database)
+2020-07-06 18:11:05.6977 Info Found 10 configuration items
+2020-07-06 18:16:13.4986 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:16:13.5531 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:16:13.7953 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 18:16:13.8062 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 18:16:13.8123 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:16:13.8237 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:16:13.8709 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 18:16:13.8871 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 18:16:13.9091 Info Message Template Auto Format enabled
+2020-07-06 18:16:13.9318 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 18:16:14.3772 Error Exception when parsing /app/nlog.development.config.  Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLog.Internal.PropertyHelper.TryGetPropertyInfo(Object obj, String propertyName, PropertyInfo& result)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyFromElement(Object o, ILoggingConfigurationElement childElement, ILoggingConfigurationElement parentElement)
+   at NLog.Config.LoggingConfigurationParser.ConfigureObjectFromElement(Object targetObject, ILoggingConfigurationElement element)
+   at NLog.Config.LoggingConfigurationParser.SetItemFromElement(Object o, PropertyInfo propInfo, ILoggingConfigurationElement element)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyFromElement(Object o, ILoggingConfigurationElement childElement, ILoggingConfigurationElement parentElement)
+   at NLog.Config.LoggingConfigurationParser.ParseTargetElement(Target target, ILoggingConfigurationElement targetElement, Dictionary`2 typeNameToDefaultTargetParameters)
+   at NLog.Config.LoggingConfigurationParser.ParseTargetsElement(ILoggingConfigurationElement targetsElement)
+   at NLog.Config.LoggingConfigurationParser.ParseNLogSection(ILoggingConfigurationElement configSection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogSection(ILoggingConfigurationElement configSection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.ParseTopLevel(NLogXmlElement content, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+2020-07-06 18:16:14.4103 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Exception when parsing /app/nlog.development.config. 
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLog.Internal.PropertyHelper.TryGetPropertyInfo(Object obj, String propertyName, PropertyInfo& result)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyFromElement(Object o, ILoggingConfigurationElement childElement, ILoggingConfigurationElement parentElement)
+   at NLog.Config.LoggingConfigurationParser.ConfigureObjectFromElement(Object targetObject, ILoggingConfigurationElement element)
+   at NLog.Config.LoggingConfigurationParser.SetItemFromElement(Object o, PropertyInfo propInfo, ILoggingConfigurationElement element)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyFromElement(Object o, ILoggingConfigurationElement childElement, ILoggingConfigurationElement parentElement)
+   at NLog.Config.LoggingConfigurationParser.ParseTargetElement(Target target, ILoggingConfigurationElement targetElement, Dictionary`2 typeNameToDefaultTargetParameters)
+   at NLog.Config.LoggingConfigurationParser.ParseTargetsElement(ILoggingConfigurationElement targetsElement)
+   at NLog.Config.LoggingConfigurationParser.ParseNLogSection(ILoggingConfigurationElement configSection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogSection(ILoggingConfigurationElement configSection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.ParseTopLevel(NLogXmlElement content, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2020-07-06 18:16:14.6776 Info Found 0 configuration items
+2020-07-06 18:24:44.2814 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:24:44.3812 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:24:44.6648 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 18:24:44.6832 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 18:24:44.6914 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:24:44.7050 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:24:44.7833 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 18:24:44.7970 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 18:24:44.8158 Info Message Template Auto Format enabled
+2020-07-06 18:24:44.8480 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 18:24:45.1785 Error Exception when parsing /app/nlog.development.config.  Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLog.Internal.PropertyHelper.TryGetPropertyInfo(Object obj, String propertyName, PropertyInfo& result)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyFromElement(Object o, ILoggingConfigurationElement childElement, ILoggingConfigurationElement parentElement)
+   at NLog.Config.LoggingConfigurationParser.ConfigureObjectFromElement(Object targetObject, ILoggingConfigurationElement element)
+   at NLog.Config.LoggingConfigurationParser.SetItemFromElement(Object o, PropertyInfo propInfo, ILoggingConfigurationElement element)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyFromElement(Object o, ILoggingConfigurationElement childElement, ILoggingConfigurationElement parentElement)
+   at NLog.Config.LoggingConfigurationParser.ParseTargetElement(Target target, ILoggingConfigurationElement targetElement, Dictionary`2 typeNameToDefaultTargetParameters)
+   at NLog.Config.LoggingConfigurationParser.ParseTargetsElement(ILoggingConfigurationElement targetsElement)
+   at NLog.Config.LoggingConfigurationParser.ParseNLogSection(ILoggingConfigurationElement configSection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogSection(ILoggingConfigurationElement configSection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.ParseTopLevel(NLogXmlElement content, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+2020-07-06 18:24:45.2108 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Exception when parsing /app/nlog.development.config. 
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLog.Internal.PropertyHelper.TryGetPropertyInfo(Object obj, String propertyName, PropertyInfo& result)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyFromElement(Object o, ILoggingConfigurationElement childElement, ILoggingConfigurationElement parentElement)
+   at NLog.Config.LoggingConfigurationParser.ConfigureObjectFromElement(Object targetObject, ILoggingConfigurationElement element)
+   at NLog.Config.LoggingConfigurationParser.SetItemFromElement(Object o, PropertyInfo propInfo, ILoggingConfigurationElement element)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyFromElement(Object o, ILoggingConfigurationElement childElement, ILoggingConfigurationElement parentElement)
+   at NLog.Config.LoggingConfigurationParser.ParseTargetElement(Target target, ILoggingConfigurationElement targetElement, Dictionary`2 typeNameToDefaultTargetParameters)
+   at NLog.Config.LoggingConfigurationParser.ParseTargetsElement(ILoggingConfigurationElement targetsElement)
+   at NLog.Config.LoggingConfigurationParser.ParseNLogSection(ILoggingConfigurationElement configSection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogSection(ILoggingConfigurationElement configSection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.ParseTopLevel(NLogXmlElement content, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2020-07-06 18:24:45.7069 Info Found 0 configuration items
+2020-07-06 18:42:03.5789 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:42:03.7359 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:42:04.1345 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 18:42:04.1470 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 18:42:04.1597 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:42:04.1862 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:42:04.2894 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 18:42:04.3083 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 18:42:04.3318 Info Message Template Auto Format enabled
+2020-07-06 18:42:04.3600 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 18:42:04.6832 Info Adding target DatabaseTarget(Name=database)
+2020-07-06 18:42:05.1174 Info Found 33 configuration items
+2020-07-06 18:43:32.3118 Error DatabaseTarget(Name=database): Error when writing to database. Exception: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 40 - Could not open a connection to SQL Server)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString)
+   at NLog.Targets.DatabaseTarget.WriteEventToDatabase(LogEventInfo logEvent, String connectionString)
+   at NLog.Targets.DatabaseTarget.Write(LogEventInfo logEvent)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+2020-07-06 18:54:29.5475 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:54:29.6816 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:54:30.4057 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 18:54:30.4329 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 18:54:30.4468 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:54:30.4848 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:54:30.6013 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 18:54:30.6369 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 18:54:30.6637 Info Message Template Auto Format enabled
+2020-07-06 18:54:30.7005 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 18:54:31.1318 Info Adding target DatabaseTarget(Name=database)
+2020-07-06 18:54:31.5001 Info Found 33 configuration items
+2020-07-06 18:59:01.6197 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:59:01.6686 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+2020-07-06 18:59:01.9329 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-07-06 18:59:01.9498 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll succeeded!
+2020-07-06 18:59:01.9599 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:59:01.9763 Info Loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+2020-07-06 18:59:02.1111 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-07-06 18:59:02.1651 Info Auto loading assembly file: /app/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll succeeded!
+2020-07-06 18:59:02.1946 Info Message Template Auto Format enabled
+2020-07-06 18:59:02.2811 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-06 18:59:02.6024 Info Adding target DatabaseTarget(Name=database)
+2020-07-06 18:59:02.7585 Info Found 35 configuration items

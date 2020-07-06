@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  booksstore.api:
+    image: ${DOCKER_REGISTRY-}booksstoreapi
+    build:
+      context: .
+      dockerfile: BooksStoreApi/Dockerfile
+    #expose:
+    #  - "80"
+    ports:
+      - "32779:80"
+        
