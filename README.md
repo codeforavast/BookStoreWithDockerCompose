@@ -33,6 +33,8 @@ nlog.production.config is logging into sql server
 # Dev env logging
 nlog.development.config is logging in file
 
+# Application flow-diagram
+BookStoreAPI_WorkFlow.pdf
 
 # Author
 ## Kautilya Shukla
